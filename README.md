@@ -1,6 +1,8 @@
 # Customer 360° Analytics Platform
 
 A comprehensive AWS Glue ETL pipeline for unified customer analytics, combining data from multiple sources (RDS MySQL, DynamoDB, S3) into actionable insights.
+<img width="1523" height="892" alt="image" src="https://github.com/user-attachments/assets/1762cf4d-7aa3-41d6-8e5f-17e603e9213e" />
+
 
 ## 📋 Business Context
 
